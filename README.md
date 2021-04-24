@@ -12,5 +12,5 @@ npm i
 
 After downloading code and installing, run in terminal and answer the questions asked by the program. It will automatically generate the HTML document in the Output folder.
 
-Below is a link to a video showing the app in use:
+Here is a link to a video showing the app in use:
 https://github.com/eellis4500/Homework10
